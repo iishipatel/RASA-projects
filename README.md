@@ -1,5 +1,5 @@
 # RASA-projects
-## Chatbots, contextual AI assistants
+ Chatbots, contextual AI assistants
 
 ### **Prerequisites**
 1. install anaconda
