@@ -3,9 +3,10 @@
 
 ### **Prerequisites**
 1. install anaconda
-2. pip install rasa_nlu
-3. pip install rasa_core
-4. pip install spacy
+Either create conda environment or use following commands on command line (terminal) directly
+2. pip install rasa[spacy]
+3. python -m spacy download en_core_web_md
+4. python -m spacy link en_core_web_md en
 
 ### **Running of the Bot**
 1. python training.py
