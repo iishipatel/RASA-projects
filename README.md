@@ -1,4 +1,4 @@
-# RASA-projects
+# RASA-Projects
  Chatbots, contextual AI assistants
 
 ### **Prerequisites**
